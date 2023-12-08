@@ -10,7 +10,7 @@
   - **<u>PASSWORD</u>**--密码
   - **<u>SCHOOL_ID</u>**--学校 id, 搜索自己学校（ 学校列表.json ）
   - **<u>ADDRESS</u>**--地址，如 xx 省 xx 市 xx 街道
-  - **<u>ADDRESS_NAME</u>**--地址名，如 xxx 公司
+  - **<u>ADDRESS_NAME</u>**--地址名，如 xxx 公司 LONGITUDE
   - **<u>LONGITUDE</u>**--经度
   - **<u>LATITUDE</u>**--纬度
   - **<u>TOKEN</u>**--push+ 的 token，用于签到后发送微信通知 （http://www.pushplus.plus/）
